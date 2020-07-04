@@ -31,7 +31,7 @@ function App() {
     ];
     return (
         <div className='App'>
-            <Table student={students}/>
+            <Table students={students}/>
         </div>
     );
 }
